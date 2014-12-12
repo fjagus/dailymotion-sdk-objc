@@ -21,7 +21,7 @@ Installation
 Copy DailymotionSDK.framework in your project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Download the last version of the framework from https://github.com/dailymotion/dailymotion-sdk-objc/downloads.
+- Download the last version of the framework from https://github.com/dailymotion/dailymotion-sdk-objc/releases.
 - Drag and drop the framework on your xcode project navigator and check the "Copy items into destination group's folder (if needed)" checkbox.
 
 Add build target dependencies
